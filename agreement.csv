@@ -1,0 +1,46 @@
+﻿TokenID,Token,,UPOS,,,DEP,DEPREL,,,,STANZA_UPOS,STANZA_DEP,STANA_DEPREL,UPOS_CORRECT,UA_CORRECT,LA_CORRECT
+# sent = 나랏〮말〯ᄊᆞ미〮 中듀ᇰ國귁〮에〮 달아〮 文문字ᄍᆞᆼ〮와〮로〮 서르 ᄉᆞᄆᆞᆺ디〮 아니〮ᄒᆞᆯᄊᆡ〮 이〮런 젼ᄎᆞ〮로〮 어린〮 百ᄇᆡᆨ〮姓셔ᇰ〮이〮 니르고〮져〮 호ᇙ〮 배〮 이셔〮도〮 ᄆᆞᄎᆞᆷ〮내〯 제 ᄠᅳ〮들〮 시러〮펴디〮 몯〯ᄒᆞᇙ 노〮미〮 하니〮라〮,,,,,,,,,,,,,,,,
+# sent_id = 62,,,,,,,,,,,,,,,,
+1,나랏〮말〯ᄊᆞ미〮,_,NOUN,_,_,3,nsubj,_,_,,NOUN,2,compound,TRUE,FALSE,FALSE
+2,中듀ᇰ國귁〮에〮,_,NOUN,_,_,3,obl,_,_,,ADV,3,obl,FALSE,TRUE,TRUE
+3,달아〮,_,ADJ,_,_,6,advcl,_,_,,SCONJ,12,ccomp,FALSE,FALSE,FALSE
+4,文문字ᄍᆞᆼ〮와〮로〮,_,NOUN,_,_,6,obl,_,_,,ADV,12,advcl,FALSE,FALSE,FALSE
+5,서르,_,ADV,_,_,6,advmod,_,_,,PROPN,6,compound,FALSE,TRUE,FALSE
+6,ᄉᆞᄆᆞᆺ디〮,_,VERB,_,_,15,advcl,_,_,,NOUN,7,compound,FALSE,FALSE,FALSE
+7,아니〮ᄒᆞᆯᄊᆡ〮,_,AUX,_,_,6,aux,_,_,,NOUN,9,obl,FALSE,FALSE,FALSE
+8,이〮런,_,DET,_,_,9,det,_,_,,VERB,9,amod,FALSE,TRUE,FALSE
+9,젼ᄎᆞ〮로〮,_,NOUN,_,_,19,obl,_,_,,ADV,12,advcl,FALSE,FALSE,FALSE
+10,어린〮,_,ADJ,_,_,11,amod,_,_,,ADJ,11,amod,TRUE,TRUE,TRUE
+11,百ᄇᆡᆨ〮姓셔ᇰ〮이〮,_,NOUN,_,_,15,nsubj,_,_,,NOUN,12,nsubj,TRUE,FALSE,FALSE
+12,니르고〮져〮,_,SCONJ,_,_,14,acl,_,_,,SCONJ,15,compound,TRUE,FALSE,FALSE
+13,호ᇙ〮,_,AUX,_,_,12,aux,_,_,,NOUN,14,compound,FALSE,FALSE,FALSE
+14,배〮,_,NOUN,_,_,15,obj,_,_,,NOUN,15,det,TRUE,TRUE,FALSE
+15,이셔〮도〮,_,VERB,_,_,22,advcl,_,_,,SCONJ,22,root,FALSE,TRUE,FALSE
+16,ᄆᆞᄎᆞᆷ〮내〯,_,ADV,_,_,19,advmod,_,_,,NOUN,18,compound,FALSE,FALSE,FALSE
+17,제,_,PRON,_,_,18,det,_,_,,ADJ,18,amod,FALSE,TRUE,FALSE
+18,ᄠᅳ〮들〮,_,NOUN,_,_,19,obj,_,_,,NOUN,19,dep,TRUE,TRUE,FALSE
+19,시러〮펴디〮,_,VERB,_,_,21,acl,_,_,,SCONJ,22,ccomp,FALSE,FALSE,FALSE
+20,몯〯ᄒᆞᇙ,_,AUX,_,_,19,aux,_,_,,NOUN,22,advmod,FALSE,FALSE,FALSE
+21,노〮미〮,_,NOUN,_,_,22,nsubj,_,_,,NOUN,22,dep,TRUE,TRUE,FALSE
+22,하니〮라〮,_,VERB,_,_,0,root,_,_,,VERB,0,root,TRUE,TRUE,TRUE
+,,,,,,,,,,,,,,,,
+# sent = 내〮 이〮ᄅᆞᆯ〮 爲윙〮ᄒᆞ〮야〮 어〯엿비〮 너겨〮 새〮로〮 스〮믈〮여듧〮字ᄍᆞᆼ〮ᄅᆞᆯ〮 ᄆᆡᇰᄀᆞ〮노니〮 사〯ᄅᆞᆷ마〯다〮 ᄒᆡ〯ᅇᅧ〮 수〯ᄫᅵ〮 니겨〮 날〮로〮 ᄡᅮ〮메〮 便뼌安ᅙᅡᆫ킈〮 ᄒᆞ고〮져〮 ᄒᆞᇙ ᄯᆞᄅᆞ미〮니라〮,,,,,,,,,,,,,,,,
+# sent_id = 63,,,,,,,,,,,,,,,,
+1,내〮,_,PRON,_,_,3,nsubj,_,_,,PRON,2,compound,TRUE,FALSE,FALSE
+2,이〮ᄅᆞᆯ〮,_,NOUN,_,_,3,obj,_,_,,NOUN,3,dep,TRUE,TRUE,FALSE
+3,爲윙〮ᄒᆞ〮야〮,_,SONJ,_,_,8,ccomp,_,_,,SCONJ,5,ccomp,FALSE,FALSE,FALSE
+4,어〯엿비〮,_,ADJ,_,_,5,advmod,_,_,,NOUN,5,dep,FALSE,TRUE,FALSE
+5,너겨〮,_,SONJ,_,_,8,advcl,_,_,,SCONJ,8,ccomp,FALSE,TRUE,FALSE
+6,새〮로〮,_,ADV,_,_,8,advmod,_,_,,ADV,8,advmod,TRUE,TRUE,TRUE
+7,스〮믈〮여듧〮字ᄍᆞᆼ〮ᄅᆞᆯ〮,_,NOUN,_,_,30,obj,_,_,,PROPN,8,dep,FALSE,FALSE,FALSE
+8,ᄆᆡᇰᄀᆞ〮노니〮,_,SONJ,_,_,16,ccomp,_,_,,SCONJ,10,ccomp,FALSE,FALSE,FALSE
+9,사〯ᄅᆞᆷ마〯다〮,_,ADV,_,_,16,obl,_,_,,ADV,10,advcl,TRUE,FALSE,FALSE
+10,ᄒᆡ〯ᅇᅧ〮,_,SCONJ,_,_,9,aux,_,_,,SCONJ,12,ccomp,TRUE,FALSE,FALSE
+11,수〯ᄫᅵ〮,_,ADV,_,_,12,advmod,_,_,,NOUN,12,dep,FALSE,TRUE,FALSE
+12,니겨〮,_,SCONJ,_,_,16,ccomp,_,_,,SCONJ,16,ccomp,TRUE,TRUE,TRUE
+13,날〮로〮,_,ADV,_,_,14,advmod,_,_,,ADV,16,advcl,TRUE,FALSE,FALSE
+14,ᄡᅮ〮메〮,_,NOUN,_,_,12,compound,_,_,,NOUN,16,advmod,TRUE,FALSE,FALSE
+15,便뼌安ᅙᅡᆫ킈〮,_,ADV,_,_,16,xcomp,_,_,,ADV,16,advmod,TRUE,TRUE,FALSE
+16,ᄒᆞ고〮져〮,_,VERB,_,_,0,root,_,_,,VERB,18,ccomp,TRUE,FALSE,FALSE
+17,ᄒᆞᇙ,_,AUX,_,_,16,aux,_,_,,VERB,18,ccomp,FALSE,FALSE,FALSE
+18,ᄯᆞᄅᆞ미〮니라〮,_,NOUN,_,_,16,advcl,_,_,,VERB,0,root,FALSE,FALSE,FALSE
